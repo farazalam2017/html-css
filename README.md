@@ -6,7 +6,7 @@ This section documents my learning journey from the Udemy course:
 In this course, I learned modern HTML5 & CSS3 techniques, best practices for responsive design, and how to build visually appealing, accessible, and performance-optimized websites.
 
 As part of the course, I collaborated with a friend via GitHub to build this project:  
-🌐 **Live Project:** [Sehat Ghar](https://sehat-ghar.netlify.app/)
+🌐 **Live Project:** [Sehat Ghar](https://sehat-ghar.netlify.app/) (Code)[https://github.com/farazalam2017/Sehat-Ghar]
 
 ---
 
